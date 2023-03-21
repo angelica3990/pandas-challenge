@@ -1,13 +1,11 @@
 
 ## Instructions
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
-#### District Summary
+#### District Summary and Total Budget
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 Include the following:
-Total number of unique schools
-Total students
-
-#### Total budget
+- Total number of unique schools
+- Total students
 - Average math score
 - Average reading score
 - % passing math (the percentage of students who passed math)
